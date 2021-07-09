@@ -87,13 +87,13 @@ h3{
   transition: 0.15s ease-in-out;
 }
 
-.lineee {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  height: 3px;
-  width: 100%;
-  background: rgb(247, 247, 13);
-  background: linear-gradient(90deg, rgba(247, 247, 13, 1) 0%, rgba(116, 236, 15, 1) 29%, rgba(53, 227, 255, 1) 66%, rgba(0, 69, 255, 1) 100%);
+
+.footer-card,.card,.card-body{
+  background-color: powderblue;
+  border:none;
+}
+.ft{
+  padding: 1rem;
 }
 
 .footer{
