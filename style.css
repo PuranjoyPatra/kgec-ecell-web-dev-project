@@ -1,0 +1,101 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-weight: 500;
+}
+
+#brand-logo{
+  clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+}
+.itmss {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 28px;
+  transition: 0.15s ease-in-out;
+}
+
+.itmss:hover {
+  color: #F7DBF0;
+  transition: 0.15s ease-in-out;
+  cursor: pointer;
+}
+
+.itmss i {
+  padding: 20px;
+  background-color: #39A2DB;
+  border-radius: 15px;
+  transition: 0.15s ease-in-out;
+}
+
+.itmss:hover i {
+  transform: rotate(30deg);
+  transition: 0.15s ease-in-out;
+}
+
+.worldMp {
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-image: url("images/world.jpg");
+  height: 300px;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.blkk {
+  font-size: 22px;
+  padding-top: 100px;
+  color: #FFF5FD;
+}
+
+.hdng {
+  font-size: 35px;
+  color: #150E56;
+  font-weight: 500;
+}
+
+.desp {
+  background-color: #1597BB;
+  color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.flw {
+  font-size: 25px;
+  color: white;
+  margin-top: 30px;
+}
+
+.flw i {
+  background-color: rgb(62, 241, 62);
+  margin-left: 8px;
+  padding: 15px;
+  border-radius: 20px;
+  transition: 0.15s ease-in-out;
+}
+
+.flw i:hover {
+  border: 2px solid rgb(62, 241, 62);
+  color: rgb(62, 241, 62);
+  background-color: white;
+  cursor: pointer;
+  font-size: 23px;
+  transition: 0.15s ease-in-out;
+}
+
+.lineee {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 3px;
+  width: 100%;
+  background: rgb(247, 247, 13);
+  background: linear-gradient(90deg, rgba(247, 247, 13, 1) 0%, rgba(116, 236, 15, 1) 29%, rgba(53, 227, 255, 1) 66%, rgba(0, 69, 255, 1) 100%);
+}
+
+.footer{
+  font-weight: 500;
+}
