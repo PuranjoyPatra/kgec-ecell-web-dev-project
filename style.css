@@ -4,9 +4,17 @@ body{
 h3{
   font-weight: 500;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 
 #brand-logo{
   clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+}
+.sank{
+  font-weight:700;
 }
 .itmss {
   margin-top: 30px;
@@ -47,7 +55,11 @@ h3{
 }
 
 
-
+.hdng-col{
+  padding:1rem;
+  margin:5px;
+  text-align:center;
+}
 .hdng {
   
   font-weight: 700;
