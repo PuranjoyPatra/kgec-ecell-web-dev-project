@@ -43,10 +43,10 @@ ul {
 
 .worldMp {
 
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 2rem;;
+  margin-bottom: 2rem;
   background-image: url("world.jpg");
-  height: 300px;
+  height: auto;
   width: auto;
   background-position: center;
   background-repeat: no-repeat;
