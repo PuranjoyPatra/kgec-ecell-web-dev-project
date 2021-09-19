@@ -9,6 +9,8 @@ The task was to create the clone of Home Page of the official sie.
 
 Oruginal website of KGEC ECELL: https://kgececell.com/
 
+My developed site : https://puranjoypatra.github.io/kgec-ecell-web-dev-project/
+
 This web sit which i developed is almost a clone of original KGEC ECELL home page. I do not create exactly same but try to similar in my own way. The website is named as "XYZ Organization"  and developed by me. 
 
 I have used HTML,CSS, BOOTSTRAP 5 and JavaScript(little more).
